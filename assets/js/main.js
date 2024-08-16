@@ -19,7 +19,7 @@ window.onload = function() {
             popup.style.display = "none";
             mainContent.style.display = "block";
         }
-    }, 20000); // Adjust the timing as needed
+    }, 300000); // Adjust the timing as needed
 };
 
 const menuBtn = document.getElementById("menu-btn");
